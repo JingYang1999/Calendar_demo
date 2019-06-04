@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="title_home">Overview</string>
+    <string name="title_dashboard">Pipeline</string>
+
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wde</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="sun">Sun</string>
+
+    <string name="year">,</string>
+    <string name="ri">,</string>
+
+    <string name="jan">Jan</string>
+    <string name="feb">Feb</string>
+    <string name="mar">Mar</string>
+    <string name="apr">Apr</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="aug">Aug</string>
+    <string name="sept">Sept</string>
+    <string name="oct">Oct</string>
+    <string name="nov">Nov</string>
+    <string name="dec">Dec</string>
+
+    <string name="empty">Empty!</string>
+    <string name="submit">Submit</string>
+
+    <string name="dowhat">Do what ?</string>
+    <string name="down" translatable="false">👇</string>
+    <string name="up" translatable="false">👆</string>
+</resources>

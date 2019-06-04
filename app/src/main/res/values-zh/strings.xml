@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">日历</string>
+    <string name="title_home">概览</string>
+    <string name="title_dashboard">日程</string>
+
+    <string name="mon">一</string>
+    <string name="tue">二</string>
+    <string name="wed">三</string>
+    <string name="thu">四</string>
+    <string name="fri">五</string>
+    <string name="sat">六</string>
+    <string name="sun">日</string>
+
+    <string name="year">年</string>
+    <string name="ri">日：</string>
+
+    <string name="jan">一月</string>
+    <string name="feb">二月</string>
+    <string name="mar">三月</string>
+    <string name="apr">四月</string>
+    <string name="may">五月</string>
+    <string name="june">六月</string>
+    <string name="july">七月</string>
+    <string name="aug">八月</string>
+    <string name="sept">九月</string>
+    <string name="oct">十月</string>
+    <string name="nov">十一月</string>
+    <string name="dec">十二月</string>
+
+    <string name="empty">--空空如也--</string>
+    <string name="submit">提交</string>
+
+    <string name="dowhat">你要干啥？</string>
+</resources>
